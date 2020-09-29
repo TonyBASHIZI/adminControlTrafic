@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Jul 2020 14:08:46 at http://demo.themefisher.com/quixlab/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.themefisher.com/quixlab/ -O1 "C:\Users\Thony_PC\Documents\templateCongo\congoU" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/big/img6.jpg (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/big/comming-soon-bg.png (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/background/password-bg.jpg (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/background/register-bg.jpg (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/background/login-register2.jpg (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/background/login-bg.jpg (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/background/user-lock-bg.jpg (from demo.themefisher.com/quixlab/css/style.css)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/quixlab/images/blog/2.jpg (from demo.themefisher.com/quixlab/app-profile.html)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/quixlab/images/blog/3.jpg (from demo.themefisher.com/quixlab/app-profile.html)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/quixlab/images/blog/4.jpg (from demo.themefisher.com/quixlab/app-profile.html)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/quixlab/images/blog/1.jpg (from demo.themefisher.com/quixlab/app-profile.html)
+14:16:05	Error: 	"Not Found" (404) at link demo.themefisher.com/assets/images/favicon.png (from demo.themefisher.com/quixlab/page-lock.html)
+14:16:06	Error: 	"Not Found" (404) at link demo.themefisher.com/quixlab/js/dashboard/dashboard-2.js (from demo.themefisher.com/quixlab/widgets.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 52 seconds : 531 links scanned, 517 files written (19360300 bytes overall) [8245831 bytes received at 17469 bytes/sec], 15452444 bytes transferred using HTTP compression in 462 files, ratio 26%, 16.5 requests per connection
+(13 errors, 0 warnings, 0 messages)
